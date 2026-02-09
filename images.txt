@@ -2,4 +2,4 @@ nginx
 mysql
 tomcat
 redis
-openjdk
+eclipse-temurin:8-jre-focal
