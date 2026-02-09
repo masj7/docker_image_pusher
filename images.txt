@@ -2,4 +2,4 @@ nginx
 mysql
 tomcat
 redis
-openjdk:8-jre-alpine
+openjdk
