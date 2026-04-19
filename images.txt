@@ -3,3 +3,4 @@ mysql
 tomcat
 redis
 eclipse-temurin:8-jre-focal
+qdrant
